@@ -3,11 +3,7 @@
 This repository contains my C practice programs and mini projects.  
 It includes:
 
-- Simple Calculator
-- Pattern Printing
-- Loops and Functions practice
-- More coming soon!
-
+-my practise problems
 ## About Me
 
 I'm a B.Tech student exploring programming through small C projects.  
