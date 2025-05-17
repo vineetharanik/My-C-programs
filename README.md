@@ -1,6 +1,6 @@
 # My C Programming Projects
 
-This repository contains my C practice programs and mini projects.  
+This repository contains my C practice programs.
 It includes:
 
 -my practise problems
